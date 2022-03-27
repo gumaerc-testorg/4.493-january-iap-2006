@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c1392a00-39b3-e910-1c9e-5627e1181797
 resourcetype: Document
 title: modul13_radiance.pdf
 uid: 4dc53038-c3eb-92d2-2dd3-0f8c91805d63

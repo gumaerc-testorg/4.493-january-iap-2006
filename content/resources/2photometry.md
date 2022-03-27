@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c1392a00-39b3-e910-1c9e-5627e1181797
 resourcetype: Document
 title: 2photometry.pdf
 uid: 6d98acd8-6760-612a-8e5c-d96e1e4005f2
