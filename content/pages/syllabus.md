@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course description, and information on the
+  course timeline and registration.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

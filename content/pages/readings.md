@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides journal articles presented to the class for background
+  reading.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
