@@ -6,6 +6,7 @@ file: /courses/4-493-natural-light-in-design-january-iap-2006/4c38bfe5121c495a68
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: module12_daysim.pdf
 uid: 4c38bfe5-121c-495a-68c0-1bb53594d0f8
 ---
 This resource contains lecture slides on short time steps dynamics, daylight coefficients, user behavior model, and daylight autonomy results.
-

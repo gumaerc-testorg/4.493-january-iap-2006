@@ -6,6 +6,7 @@ file: /courses/4-493-natural-light-in-design-january-iap-2006/5834d9f0d6e3b6c346
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 1welcome_intro.pdf
 uid: 5834d9f0-d6e3-b6c3-461b-366cef6a541e
 ---
 This file contains the introduction to the workshop on natural light in design.
-

@@ -6,6 +6,7 @@ file: /courses/4-493-natural-light-in-design-january-iap-2006/3b60fbc172630deba6
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pres2.pdf
 uid: 3b60fbc1-7263-0deb-a605-ae48e4b8d69e
 ---
 This resource contains an example of a final project, courtesy of Vincent Costanzo.
-

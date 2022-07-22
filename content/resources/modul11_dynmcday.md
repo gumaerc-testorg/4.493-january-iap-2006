@@ -6,6 +6,7 @@ file: /courses/4-493-natural-light-in-design-january-iap-2006/ef1956db96b0feec0e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: modul11_dynmcday.pdf
 uid: ef1956db-96b0-feec-0e06-960fd534dd3a
 ---
 This resource contains lecture slides  on dynamic metrics and related tools.
-

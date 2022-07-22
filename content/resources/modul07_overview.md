@@ -5,6 +5,7 @@ file: /courses/4-493-natural-light-in-design-january-iap-2006/b21edc6a5cd746cbd7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: modul07_overview.pdf
 uid: b21edc6a-5cd7-46cb-d7c6-19156a401dae
 ---
 This resource contains lecture slides with an introduction to radiance.
-

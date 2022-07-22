@@ -6,6 +6,7 @@ file: /courses/4-493-natural-light-in-design-january-iap-2006/28f49e01fddc3d17d9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: modul02_introsim.pdf
 uid: 28f49e01-fddc-3d17-d96d-5ef4256b7a95
 ---
 This resource contains lecture slides with an introduction to building simulation (why simulations for architects, tools used in this course).
-

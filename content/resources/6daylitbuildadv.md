@@ -6,6 +6,7 @@ file: /courses/4-493-natural-light-in-design-january-iap-2006/301471d87c6b139b8c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 6daylitbuildadv.pdf
 uid: 301471d8-7c6b-139b-8c20-f65f4f6ea83f
 ---
 This resource contains lecture slides on daylit buildings and technologies (including advanced materials).
-

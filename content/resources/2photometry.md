@@ -6,6 +6,7 @@ file: /courses/4-493-natural-light-in-design-january-iap-2006/6d98acd86760612a8e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2photometry.pdf
 uid: 6d98acd8-6760-612a-8e5c-d96e1e4005f2
 ---
 This resource contains lecture slides on photometry (definition, measurement, typical values, DF definition).
-

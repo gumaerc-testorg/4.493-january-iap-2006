@@ -5,6 +5,7 @@ file: /courses/4-493-natural-light-in-design-january-iap-2006/1eac694408be4ee994
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
