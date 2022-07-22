@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the course description, and information on the
+  course timeline and registration.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0c185b53-287d-b4ae-6367-31b5a34b7ca7
 ---
