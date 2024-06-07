@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains lecture slides on daylight factor calculations:
   sky models CIE and Perez, Split-Flux method, and LEED spreadsheet method.'
 file: /courses/4-493-natural-light-in-design-january-iap-2006/4831413217a9befba7a5db3d8ad9e8aa_3daylightfactor.pdf
+file_size: 2703499
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
