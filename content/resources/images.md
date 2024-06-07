@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-493-natural-light-in-design-january-iap-2006/4ce33d79d94d16ed818b83b7fffd5793_images.pdf
+file_size: 25191
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
