@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides with an overview on visual comfort
   (glare, contrast, and recommendations).
-file: /courses/4-493-natural-light-in-design-january-iap-2006/2d3e3dab0133bc618fbba43973cef566_5viscomfort.pdf
+file: /ol-ocw-studio-app/courses/4-493-natural-light-in-design-january-iap-2006/2d3e3dab0133bc618fbba43973cef566_5viscomfort.pdf
 file_size: 1346842
 file_type: application/pdf
 learning_resource_types:
