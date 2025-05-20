@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains lecture slides on the Ecotect Weather Tool.
-file: /ol-ocw-studio-app/courses/4-493-natural-light-in-design-january-iap-2006/f4b9c69245f06791e7b46f532ad466f3_module09_ecotect.pdf
+file: /courses/4-493-natural-light-in-design-january-iap-2006/f4b9c69245f06791e7b46f532ad466f3_module09_ecotect.pdf
 file_size: 317385
 file_type: application/pdf
 learning_resource_types:

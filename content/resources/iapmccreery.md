@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/4-493-natural-light-in-design-january-iap-2006/1eac694408be4ee994a1a4b473b423ce_iapmccreery.pdf
+file: /courses/4-493-natural-light-in-design-january-iap-2006/1eac694408be4ee994a1a4b473b423ce_iapmccreery.pdf
 file_size: 2074966
 file_type: application/pdf
 learning_resource_types:
