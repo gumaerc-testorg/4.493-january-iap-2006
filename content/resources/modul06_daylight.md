@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains lecture slides on daylight factor simulation:
   design sky, split flux method in ecotect.'
-file: /ol-ocw-studio-app/courses/4-493-natural-light-in-design-january-iap-2006/9c871e801cb029b74d043c02d44a2e92_modul06_daylight.pdf
+file: /courses/4-493-natural-light-in-design-january-iap-2006/9c871e801cb029b74d043c02d44a2e92_modul06_daylight.pdf
 file_size: 406888
 file_type: application/pdf
 learning_resource_types:

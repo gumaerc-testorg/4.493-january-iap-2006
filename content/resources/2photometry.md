@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides on photometry (definition, measurement,
   typical values, DF definition).
-file: /ol-ocw-studio-app/courses/4-493-natural-light-in-design-january-iap-2006/6d98acd86760612a8e5cd96e1e4005f2_2photometry.pdf
+file: /courses/4-493-natural-light-in-design-january-iap-2006/6d98acd86760612a8e5cd96e1e4005f2_2photometry.pdf
 file_size: 1264039
 file_type: application/pdf
 learning_resource_types:
