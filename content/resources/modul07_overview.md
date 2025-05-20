@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains lecture slides with an introduction to radiance.
-file: /ol-ocw-studio-app/courses/4-493-natural-light-in-design-january-iap-2006/b21edc6a5cd746cbd7c619156a401dae_modul07_overview.pdf
+file: /courses/4-493-natural-light-in-design-january-iap-2006/b21edc6a5cd746cbd7c619156a401dae_modul07_overview.pdf
 file_size: 2026957
 file_type: application/pdf
 learning_resource_types:
