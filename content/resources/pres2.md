@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains an example of a final project, courtesy of Vincent
   Costanzo.
-file: /courses/4-493-natural-light-in-design-january-iap-2006/3b60fbc172630deba605ae48e4b8d69e_pres2.pdf
+file: /ol-ocw-studio-app/courses/4-493-natural-light-in-design-january-iap-2006/3b60fbc172630deba605ae48e4b8d69e_pres2.pdf
 file_size: 227381
 file_type: application/pdf
 learning_resource_types:

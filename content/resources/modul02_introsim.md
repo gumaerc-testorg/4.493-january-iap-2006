@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides with an introduction to building
   simulation (why simulations for architects, tools used in this course).
-file: /courses/4-493-natural-light-in-design-january-iap-2006/28f49e01fddc3d17d96d5ef4256b7a95_modul02_introsim.pdf
+file: /ol-ocw-studio-app/courses/4-493-natural-light-in-design-january-iap-2006/28f49e01fddc3d17d96d5ef4256b7a95_modul02_introsim.pdf
 file_size: 681168
 file_type: application/pdf
 learning_resource_types:
