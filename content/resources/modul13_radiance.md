@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides with an introduction to advanced
   radiance materials and Ecotect's RADTOOL.
-file: /courses/4-493-natural-light-in-design-january-iap-2006/4dc53038c3eb92d22dd30f8c91805d63_modul13_radiance.pdf
+file: /ol-ocw-studio-app/courses/4-493-natural-light-in-design-january-iap-2006/4dc53038c3eb92d22dd30f8c91805d63_modul13_radiance.pdf
 file_size: 605273
 file_type: application/pdf
 learning_resource_types:
