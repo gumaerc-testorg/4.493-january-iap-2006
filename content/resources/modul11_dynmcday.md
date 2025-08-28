@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides  on dynamic metrics and related
   tools.
-file: /courses/4-493-natural-light-in-design-january-iap-2006/ef1956db96b0feec0e06960fd534dd3a_modul11_dynmcday.pdf
+file: /ol-ocw-studio-app/courses/4-493-natural-light-in-design-january-iap-2006/ef1956db96b0feec0e06960fd534dd3a_modul11_dynmcday.pdf
 file_size: 820615
 file_type: application/pdf
 learning_resource_types:

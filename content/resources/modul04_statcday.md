@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides on static daylighting metrics (context
   of LEED, selected results from NRC survey, and DF and solar shading).
-file: /courses/4-493-natural-light-in-design-january-iap-2006/221c56e7595ca9c8e9168e0e71447c7c_modul04_statcday.pdf
+file: /ol-ocw-studio-app/courses/4-493-natural-light-in-design-january-iap-2006/221c56e7595ca9c8e9168e0e71447c7c_modul04_statcday.pdf
 file_size: 607880
 file_type: application/pdf
 learning_resource_types:

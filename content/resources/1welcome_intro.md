@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the introduction to the workshop on natural light
   in design.
-file: /courses/4-493-natural-light-in-design-january-iap-2006/5834d9f0d6e3b6c3461b366cef6a541e_1welcome_intro.pdf
+file: /ol-ocw-studio-app/courses/4-493-natural-light-in-design-january-iap-2006/5834d9f0d6e3b6c3461b366cef6a541e_1welcome_intro.pdf
 file_size: 5436908
 file_type: application/pdf
 learning_resource_types:
